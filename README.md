@@ -4,6 +4,7 @@
 [![git](https://img.shields.io/badge/git-2.23.0-orange)](https://git-scm.com/)
 
 * [Pro Git Book](https://git-scm.com/book/en/v2)
+* [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 
 ## Git ignore
 
