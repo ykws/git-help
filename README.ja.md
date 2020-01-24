@@ -1,5 +1,8 @@
 # Git Help
 
+[![macOS](https://img.shields.io/badge/macOS-Catalina-black)](https://developer.apple.com/macos/)
+[![git](https://img.shields.io/badge/git-2.23.0-orange)](https://git-scm.com/)
+
 * [Pro Git Book](https://git-scm.com/book/ja/v2)
 
 ## Git ignore
